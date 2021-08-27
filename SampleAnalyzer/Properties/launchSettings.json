@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SampleAnalyzer": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Sandbox\\SampleApp1\\SampleApp1.csproj"
+    }
+  }
+}
